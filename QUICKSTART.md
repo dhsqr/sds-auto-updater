@@ -150,6 +150,4 @@ streamlit run app.py
 - Review logs in `sds_updater.log`
 - Run health check: `python main.py --health-check`
 
----
 
-**Ready to deploy?** See `DEPLOYMENT.md` for production setup guide.
