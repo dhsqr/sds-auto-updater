@@ -146,7 +146,7 @@ streamlit run app.py
 ## 🆘 Get Help
 
 - Check `README.md` for detailed information
-- See `DEPLOYMENT.md` for production setup
+
 - Review logs in `sds_updater.log`
 - Run health check: `python main.py --health-check`
 
