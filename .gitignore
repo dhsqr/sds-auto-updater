@@ -1,0 +1,42 @@
+# Environment variables
+.env
+.streamlit/secrets.toml
+
+# Database files
+data/sds_database.db
+*.db
+
+# PDF files
+data/sds_files/*.pdf
+
+# Backups
+data/backups/*.db
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+venv/
+env/
+ENV/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+sds_updater.log
+
+# Temporary files
+*.tmp
+temp_upload.csv

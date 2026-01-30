@@ -1,0 +1,112 @@
+chemical_name,cas_number,supplier,product_id
+Sodium Hydroxide,1310-73-2,sigma_aldrich,S5881
+Hydrochloric Acid,7647-01-0,sigma_aldrich,H1758
+Sulfuric Acid,7664-93-9,sigma_aldrich,258105
+Acetone,67-64-1,sigma_aldrich,270725
+Methanol,67-56-1,sigma_aldrich,322415
+Ethanol,64-17-5,sigma_aldrich,459844
+Isopropyl Alcohol,67-63-0,sigma_aldrich,278475
+Acetic Acid,64-19-7,sigma_aldrich,A6283
+Nitric Acid,7697-37-2,sigma_aldrich,438073
+Phosphoric Acid,7664-38-2,sigma_aldrich,345245
+Ammonia Solution,1336-21-6,sigma_aldrich,221228
+Hydrogen Peroxide,7722-84-1,sigma_aldrich,H1009
+Formaldehyde,50-00-0,sigma_aldrich,F8775
+Toluene,108-88-3,sigma_aldrich,244511
+Benzene,71-43-2,sigma_aldrich,401765
+Chloroform,67-66-3,sigma_aldrich,C2432
+Dichloromethane,75-09-2,sigma_aldrich,270997
+Hexane,110-54-3,sigma_aldrich,296090
+Diethyl Ether,60-29-7,sigma_aldrich,296082
+Tetrahydrofuran,109-99-9,sigma_aldrich,401757
+Sodium Chloride,7647-14-5,sigma_aldrich,S9888
+Potassium Hydroxide,1310-58-3,sigma_aldrich,221473
+Calcium Chloride,10043-52-4,sigma_aldrich,C1016
+Magnesium Sulfate,7487-88-9,sigma_aldrich,M7506
+Sodium Bicarbonate,144-55-8,sigma_aldrich,S5761
+Copper Sulfate,7758-99-8,merck,102790
+Ferric Chloride,7705-08-0,merck,103943
+Zinc Chloride,7646-85-7,merck,108816
+Lead Nitrate,10099-74-8,merck,107398
+Silver Nitrate,7761-88-8,merck,101512
+Potassium Permanganate,7722-64-7,srl_chemicals,89541
+Sodium Thiosulfate,7772-98-7,srl_chemicals,89668
+Barium Chloride,10361-37-2,srl_chemicals,89025
+Strontium Chloride,10476-85-4,srl_chemicals,89627
+Citric Acid,77-92-9,srl_chemicals,89196
+Oxalic Acid,144-62-7,srl_chemicals,89482
+Tartaric Acid,87-69-4,srl_chemicals,89682
+Benzoic Acid,65-85-0,srl_chemicals,89033
+Phenol,108-95-2,srl_chemicals,89491
+Aniline,62-53-3,srl_chemicals,89015
+Glycerol,56-81-5,sigma_aldrich,G5516
+Glucose,50-99-7,sigma_aldrich,G8270
+Sucrose,57-50-1,sigma_aldrich,S0389
+Starch,9005-25-8,sigma_aldrich,S2004
+Urea,57-13-6,sigma_aldrich,U5378
+Sodium Acetate,127-09-3,sigma_aldrich,S2889
+Potassium Chloride,7447-40-7,sigma_aldrich,P3911
+Ammonium Chloride,12125-02-9,sigma_aldrich,A9434
+Sodium Carbonate,497-19-8,sigma_aldrich,S7795
+Potassium Carbonate,584-08-7,sigma_aldrich,209619
+Sodium Sulfate,7757-82-6,sigma_aldrich,239313
+Potassium Sulfate,7778-80-5,sigma_aldrich,P0772
+Ferrous Sulfate,7720-78-7,merck,103965
+Copper Chloride,7447-39-4,merck,102739
+Nickel Chloride,7718-54-9,merck,106717
+Cobalt Chloride,7646-79-9,merck,102539
+Manganese Dioxide,1313-13-9,merck,105957
+Sodium Nitrate,7631-99-4,srl_chemicals,89450
+Potassium Nitrate,7757-79-1,srl_chemicals,89517
+Ammonium Nitrate,6484-52-2,srl_chemicals,89008
+Sodium Phosphate,7601-54-9,srl_chemicals,89462
+Potassium Iodide,7681-11-0,srl_chemicals,89523
+Sodium Iodide,7681-82-5,srl_chemicals,89456
+Iodine,7553-56-2,sigma_aldrich,207772
+Bromine,7726-95-6,sigma_aldrich,207888
+Sodium Bromide,7647-15-6,sigma_aldrich,S4547
+Potassium Bromide,7758-02-3,sigma_aldrich,P0838
+Calcium Carbonate,471-34-1,sigma_aldrich,C4830
+Magnesium Oxide,1309-48-4,sigma_aldrich,342793
+Aluminium Sulfate,10043-01-3,merck,101102
+Zinc Sulfate,7733-02-0,merck,108883
+Sodium Hydroxide Pellets,1310-73-2,srl_chemicals,89604
+Potassium Dichromate,7778-50-9,srl_chemicals,89511
+Sodium Dichromate,10588-01-9,srl_chemicals,89442
+Chromium Trioxide,1333-82-0,sigma_aldrich,236470
+Sodium Borohydride,16940-66-2,sigma_aldrich,452882
+Lithium Aluminum Hydride,16853-85-3,sigma_aldrich,199877
+Sodium Metal,7440-23-5,sigma_aldrich,282065
+Potassium Metal,7440-09-7,sigma_aldrich,244864
+Calcium Metal,7440-70-2,sigma_aldrich,215147
+Magnesium Ribbon,7439-95-4,sigma_aldrich,254118
+Zinc Granules,7440-66-6,sigma_aldrich,209988
+Iron Powder,7439-89-6,sigma_aldrich,267953
+Copper Turnings,7440-50-8,sigma_aldrich,326453
+Aluminium Powder,7429-90-5,sigma_aldrich,202584
+Activated Charcoal,7440-44-0,sigma_aldrich,C2764
+Silica Gel,112926-00-8,sigma_aldrich,236772
+Molecular Sieves 4A,70955-01-0,sigma_aldrich,208604
+Benedict Solution,12069-69-1,srl_chemicals,89031
+Fehling Solution A,7758-99-8,srl_chemicals,89261
+Fehling Solution B,6100-05-6,srl_chemicals,89262
+Ninhydrin,485-47-2,sigma_aldrich,151173
+Sudan III,85-86-9,srl_chemicals,89629
+Methyl Orange,547-58-0,srl_chemicals,89381
+Phenolphthalein,77-09-8,srl_chemicals,89493
+Litmus Blue,1393-92-6,srl_chemicals,89355
+Universal Indicator,8007-32-7,srl_chemicals,89715
+EDTA Disodium Salt,6381-92-6,sigma_aldrich,E5134
+Buffer Solution pH 4,77-92-9,merck,109435
+Buffer Solution pH 7,7647-01-0,merck,109439
+Buffer Solution pH 10,1310-73-2,merck,109438
+Xylene,1330-20-7,sigma_aldrich,247642
+Dimethyl Sulfoxide,67-68-5,sigma_aldrich,472301
+N-Methyl-2-pyrrolidone,872-50-4,merck,806072
+Acetonitrile,75-05-8,sigma_aldrich,271004
+Ethyl Acetate,141-78-6,sigma_aldrich,270989
+Trichloroethylene,79-01-6,srl_chemicals,89709
+Sodium Hypochlorite,7681-52-9,merck,105614
+Ammonium Persulfate,7727-54-0,sigma_aldrich,248614
+Potassium Ferricyanide,13746-66-2,srl_chemicals,89505
+Sodium Azide,26628-22-8,sigma_aldrich,S2002
