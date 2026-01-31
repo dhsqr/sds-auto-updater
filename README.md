@@ -128,11 +128,6 @@ sds-auto-updater/
 | 🟡 **IMPORTANT** | First aid, disposal, handling changes | "Updated eye wash procedure" |
 | 🟢 **MINOR** | Contact info, formatting | "Supplier phone number changed" |
 
-## 🌐 Supported Suppliers
-
-- **Sigma-Aldrich** (sigmaaldrich.com)
-- **Merck** (merckmillipore.com)
-- **SRL Chemicals** (srlchem.com)
 
 ## 📧 Email Alerts
 
